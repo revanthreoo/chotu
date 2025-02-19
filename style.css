@@ -1,0 +1,19 @@
+.background_main {
+    background-color: #ffffff;
+    background-size: cover;
+}
+
+.fir {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+}
+
+.dlp {
+    font-weight: bold;
+}
